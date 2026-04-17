@@ -1,0 +1,87 @@
+{
+  "ref_number": "JUSE-2026-0042",
+  "orgName": "Caribbean Environmental Trust",
+  "projectTitle": "Mangrove Restoration & Coastal Protection in Kingston Harbour",
+  "parish": "Kingston",
+  "submission_date": "April 6, 2026",
+  "submission_time": "10:45 AM",
+  "contactName": "Dr. Alicia Thompson",
+  "contactTitle": "Executive Director",
+  "contactGender": "Female",
+  "email": "alicia@caribenvtrust.org",
+  "phone": "1-876-555-0184",
+
+  "regType": "NGO",
+  "orgCategory": "Environmental NGO",
+  "dateOfFormation": "2015-03-12",
+  "regNumber": "NGO-45678",
+  "orgParish": "Kingston",
+  "orgAddress": "12 Ocean Boulevard, Kingston",
+
+  "housingVulnerabilityTier": "Yes — Directly and centrally",
+  "housingVulnerabilityContext": "Informal settlements on steep slopes prone to landslides and coastal communities experiencing erosion and storm surge. Many homes are in flood-prone zones with inadequate drainage.",
+
+  "adaptationIntervention": "Permeable Pavement, Green Roof, Rainwater Harvesting",
+  "adaptationProduce": "Reduced stormwater runoff and improved water quality",
+  "adaptationReduces": "Flooding, Extreme Heat, Water Contamination",
+  "adaptationFor": "45,000 residents and 1,200 fishers in Rae Town",
+
+  "genderAnalysisConducted": true,
+  "genderAnalysisFindings": "Women bear disproportionate climate impacts but are often excluded from planning. Assessment showed 68% of women-headed households have higher vulnerability.",
+  "gbvRiskConsidered": true,
+  "gbvMitigationMeasures": "Safe spaces for women during training, gender-sensitive complaint mechanisms, and community awareness campaigns.",
+
+  "focusLenses": [
+    { "lensName": "Gender Responsive", "selectedOption": "Strongly Applied" },
+    { "lensName": "Youth Inclusion", "selectedOption": "Applied" }
+  ],
+
+  "benefitTraceability": [
+    {
+      "outcomeLabel": "Increased coastal protection",
+      "sector": "Disaster Risk Reduction",
+      "groups": "Coastal residents",
+      "how": "Wave attenuation",
+      "intensity": "High",
+      "timing": "Immediate & Long-term",
+      "verification": "Wave height monitoring"
+    }
+  ],
+
+  "pathway": "market",
+  "marketRevenue": "Eco-tourism fees + sustainable aquaculture",
+  "marketCustomer": "Local and international visitors",
+  "marketOMCoverage": "85%",
+
+  "enablersDetail": [
+    { "enablerName": "Blended Finance Structure", "status": "Still Need", "notes": "Need technical assistance to structure the vehicle." },
+    { "enablerName": "Technical Capacity Building", "status": "Already Have", "notes": "Partnership with UWI secured." }
+  ],
+
+  "preferredLearningFormats": ["Field-based workshops", "Peer-to-peer mentoring"],
+  "accessibilityNeeds": "Yes",
+  "accessibilityDetails": "Wheelchair-accessible venues and large-print materials.",
+
+  "totalCost": "JMD $28,500,000",
+  "juseRequest": "JMD $15,000,000",
+  "otherFunding": "JMD $13,500,000",
+  "startDate": "2026-07-01",
+  "endDate": "2028-06-30",
+
+  "documents": [
+    { "documentType": "Budget Breakdown", "fileName": "Budget_2026.xlsx", "fileUrl": "https://example.com/budget.xlsx" }
+  ],
+
+  "declaration1": true,
+  "declaration2": true,
+  "declaration3": true,
+  "declaration4": true,
+  "declaration5": true,
+  "declaration6": true,
+  "declaration7": true,
+  "declaration8": true,
+
+  "authName": "Dr. Alicia Thompson",
+  "authTitle": "Executive Director",
+  "authDate": "2026-04-06"
+}
